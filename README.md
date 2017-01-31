@@ -1,5 +1,7 @@
 # MVC-Projects-Starter-Kit
 
+Bu proje herhangi bir ASP.NET projesine başlanacağı zaman, içeriklerin kolayca temin edilmedi amacıyla yapılmıştır. Normal olarak kullanılan js ve css kütüphanelerinin yanısıra, yeni bir tema ile datatable ve colreorder bulunmaktadır.
+
 #### Get JQuery
 
 https://developers.google.com/speed/libraries/#jquery
